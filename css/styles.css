@@ -1,0 +1,36 @@
+/*
+    Stylesheet Purpose: Restaurant Project
+    Author name: Terence Smith 03/04/2022
+*/
+
+.hero {
+    background-image: url('../img/restaurant.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    height: 550px;
+    opacity: 0.8;
+}
+
+.hero-text {
+    color: white;
+    /* margin: 700px; */
+}
+
+.cuisine-1 {
+    max-width: 100%;
+	border: 1px solid #2A2B2F;
+    border-radius: 3%;
+    opacity: 0.8;
+}
+
+.p-text {
+    text-align: left;
+	font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#content {
+    background-color: white;
+}
+
